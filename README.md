@@ -1,8 +1,9 @@
 # UnknownCoder - JAVA library
-A repository where i upload all updates of my JAVA library
+A repository where I upload all updates of my JAVA library
+> **TIP:** In each <code>.zip</code> file there is a file called <code>Update notes.html</code>;<br> Open it to see all additions, deletions and changes I made in this progects
 ***
 
-Heres a **LIST** of all versions (there are also versions that i'm going to make):
+Heres a **LIST** of all versions (there are also versions that I'm going to make):
 <br>
 <br>
  - [ ] Version <code>1.28</code> (geom3d)
