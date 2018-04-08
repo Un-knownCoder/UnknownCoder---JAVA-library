@@ -6,7 +6,8 @@ A repository where I upload all updates of my JAVA library
 Heres a **LIST** of all versions (there are also versions that I'm going to make):
 <br>
 <br>
- - [ ] Version <code>1.28</code> (geom3d)
+ - [ ] Version <code>1.28.2</code> (Cuboid.java)
+> - [x] Version <code>1.28</code> (geom3d)
 > - [x] Version <code>1.27</code >(Exceptions)
 > - [x] Version <code>1.26</code> (Complex numbers)
 > - [x] Version <code>1.25.2b</code> (Debug Segment.java)
