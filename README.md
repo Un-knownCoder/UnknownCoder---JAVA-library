@@ -17,3 +17,11 @@ Heres a **LIST** of all versions (there are also versions that I'm going to make
 > - [x] Version <code>1.25</code> (geom2d)
 > - [x] Version <code>1.24</code> (Folder names change)
 > - [x] Version <code>1.0 >> 1.23</code> (Project start)
+<br>
+<hr>
+
+## How to instal?
+If you have the **Eclipse IDE** follow these steps:
+1. Create a new **project**
+2. Create a folder *(I usually call it **lib**)* and put the **.jar** file in it
+3. Now click with the **RIGHT mouse button** on the library and go to : **build path > add to build path**
