@@ -22,7 +22,7 @@ Heres a **LIST** of all versions (there are also versions that I'm going to make
 
 ## How to download?
 There are **2** methods:
-1. Open the folder: **UnknownCoder---JAVA-library > NEW** for the newest version of the library (in the **other versions** folder there are older versions)
+1. Open the folder: **UnknownCoder---JAVA-library > NEW** for the newest version of the library (in the **other versions** folder there are some older versions of the **library**)
 
 2. Open the **releases** page of this repository and, if you dont know which file you have to download, select the file called **UnknownCoder-JAVA_library-v\*.\*\*.zip**
 
