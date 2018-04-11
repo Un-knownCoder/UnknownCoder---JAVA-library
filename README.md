@@ -26,7 +26,7 @@ There are **2** methods:
 
 2. Open the **releases** page of this repository and, if you dont know which file you have to download, select the file called **UnknownCoder-JAVA_library-v\*.\*\*.zip**
 
-## How to instal?
+## How to install?
 If you have the **Eclipse IDE** follow these steps:
 1. Create a new **project**
 2. Create a folder *(I usually call it **lib**)* and put the **.jar** file in it
