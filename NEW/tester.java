@@ -1,14 +1,16 @@
-import UC.util.cartesianMath.geom3d.*; // (Sphere and Segment3d)
-import UC.util.Point3d;
+import UC.util.cartesianMath.geom3d.*; // (Pyramid and Prism)
+import UC.util.cartesianMath.geom2d.Polygon;
+import UC.util.Point2d;
 
 public class Main(){
   public static void main(String[] args){
-    Point3d A = new Point3d(10, 0);
-    Point3d B = new Point3d(10, 10);
+    Point2d A = new Point2d(10, 0);
+    Point2d B = new Point2d(10, 10);
+    Point2d C = new Point2d(0, 20);
     
-    Segment3d s = new Segment3d(A, B);
-    Sphere sp = new Sphere(s);
+    Polygon p = new Polygon(A, B, C);
     
-    System.out.println(sp.getVolume());
+    Prism pr = new Prism(p, 10);
+    System.out.println(pr.getVolume());
   }
 }
