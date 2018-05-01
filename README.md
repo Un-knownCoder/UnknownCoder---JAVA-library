@@ -9,7 +9,7 @@ Heres a **LIST** of all versions (there are also versions that I'm going to make
 <br>
 <br>
 
- [ ] Version <code>1.29</code> (?)
+- [ ] Version <code>1.29</code> (?)
 > - [x] Version <code>1.28.3</code> (Line2d.java & Line3d.java)
 > - [x] Version <code>1.28.2</code> (Pyramid.java & Prism.java)
 > - [x] Version <code>1.28</code> (geom3d)
