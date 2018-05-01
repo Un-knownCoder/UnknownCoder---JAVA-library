@@ -8,7 +8,9 @@ A repository where I upload all updates of my JAVA library
 Heres a **LIST** of all versions (there are also versions that I'm going to make):
 <br>
 <br>
-- [ ] Version <code>1.28.3</code> (Line2d.java & Line3d.java)
+
+ [ ] Version <code>1.29</code> (?)
+> - [x] Version <code>1.28.3</code> (Line2d.java & Line3d.java)
 > - [x] Version <code>1.28.2</code> (Pyramid.java & Prism.java)
 > - [x] Version <code>1.28</code> (geom3d)
 > - [x] Version <code>1.27</code >(Exceptions)
